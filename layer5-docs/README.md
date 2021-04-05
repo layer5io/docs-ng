@@ -1,6 +1,4 @@
-
-# Meshery Docs-NG
-This repository is for experimentally assessing a shift to Docusaurus.
+# Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
